@@ -37,7 +37,7 @@ You can align text in the columns to the left, right, or center by adding a colo
 
 
 | Syntax        | Description           | Test Text  |
-| ------------- |:-------------:| -----:|
+| ------------- | :-------------: | -----:|
 | Header      | Title |  Here's this |
 | Paragraph      | Text      |   And more |
 
