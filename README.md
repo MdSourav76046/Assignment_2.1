@@ -27,8 +27,8 @@
 
 <img src="https://www.transparentpng.com/thumb/goku/4syqeW-goku-transparent-picture.png" alt="goku transparent picture @transparentpng.com">
 
-library(tidyverse)
-library(msdr)
+library(tidyverse)<br>
+library(msdr)<br>
 SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() + geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 
 # Table with alignment
