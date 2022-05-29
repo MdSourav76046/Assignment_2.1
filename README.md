@@ -25,7 +25,7 @@
 
 
 
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1J6F-2YhEjgNb2kK0vJa1gC3wExzOzL9VTw&usqp=CAU" >
+<img src="https://www.transparentpng.com/thumb/goku/4syqeW-goku-transparent-picture.png" alt="goku transparent picture @transparentpng.com">
 
 library(tidyverse)
 library(msdr)
