@@ -5,7 +5,7 @@
 <p align = "center">  First equation: $Y = X&beta;+&epsilon;_{y},&forall;X$ </p>
   
 <p align = "center"> Second equation: $X = Z&gamma;+ &epsilon;_{x} $</p>
-<p align = "center"> <img src = "https://latex.codecogs.com/svg.image?f_{1}(\omega&space;)=\frac{\sigma&space;^{2}}{2\pi},\omega&space;\epsilon&space;\left&space;[&space;-\pi&space;,\pi&space;&space;\right&space;]"></p>
+<p align = "center"> <img src = "https://latex.codecogs.com/svg.image?f_{1}(\omega&space;)=\frac{\sigma&space;^{2}}{2\pi},\omega&space;\in&space;\left&space;[&space;-\pi&space;,\pi&space;&space;\right&space;]"></p>
 <ol type = "1">
   <li> First item a. firstsub-item A) first sub-sub-item b.second sub-item</li>
   <li>Second item </li>
